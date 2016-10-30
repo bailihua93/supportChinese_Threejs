@@ -1,0 +1,2 @@
+# supportChinese_Threejs
+将ttf字体转换为js之后支持threejs的中文3D.
